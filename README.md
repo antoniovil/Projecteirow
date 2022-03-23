@@ -51,6 +51,8 @@ Initial conclusions for the election tweets:
 - Which led me to think if there is a correlation between the S&P 500 avg price per month and Trump´s retweet - and there is: 
 ![image](https://user-images.githubusercontent.com/76560772/159754836-555d8d6e-5d49-4f49-9fbb-e2d2b4807558.png)
 
+- BUT, when the volume of the stock decreases, is where Trump has the most influence, or retweets. is his mouth scaring people away? specially in July 2016. 
+![image](https://user-images.githubusercontent.com/76560772/159784194-0973e312-8964-45a9-8dd9-fd18ce4cc942.png)
 
 The intention is to carry over the analysis to the second project to nurture the visualizations and hypothesis analysis. 
 
