@@ -1,0 +1,10 @@
+Type,Other,ticker
+Index,Dow Jones Industrial Average,^DJI
+Index,S&P 500,^GSPC
+Index,NASDAQ Composite,^IXIC
+Index,CBOE Volatility Index,^VIX
+Commodity,Gold,GC=F
+Commodity,Crude Oil,CL=F
+Commodity,Silver,SI=F
+Crypto,Bitcoin USD,BTC-USD
+Crypto,Etherun USD,ETH-USD
