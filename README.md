@@ -1,4 +1,4 @@
-# Welcome to Antonio´s Project
+# Welcome to Antonio´s Project - 'Put your money where your mouth Twitter is'
 
 The objective of this project to showcase any correlations between Twitter activity of Donald Trump and Hillary Clinton with the stock market and the 2016 Presidential elections polls.
 ![image](https://user-images.githubusercontent.com/76560772/159755218-b4f67c81-1d9a-488e-b149-cf3bb29a617f.png)
